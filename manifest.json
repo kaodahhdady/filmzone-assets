@@ -1,0 +1,128 @@
+[
+  {
+    "source": "javascript",
+    "index": 1,
+    "mime": "image/png",
+    "line": 233,
+    "file": "javascript-01-37d20ef7678a.png",
+    "bytes": 39227,
+    "sha256_prefix": "37d20ef7678a"
+  },
+  {
+    "source": "javascript",
+    "index": 2,
+    "mime": "video/webm",
+    "line": 2017,
+    "file": "javascript-02-88dead502788.webm",
+    "bytes": 39737,
+    "sha256_prefix": "88dead502788"
+  },
+  {
+    "source": "javascript",
+    "index": 3,
+    "mime": "video/webm",
+    "line": 2023,
+    "file": "javascript-03-55b9dbc31b9e.webm",
+    "bytes": 67624,
+    "sha256_prefix": "55b9dbc31b9e"
+  },
+  {
+    "source": "javascript",
+    "index": 4,
+    "mime": "video/webm",
+    "line": 2029,
+    "file": "javascript-04-1707cade8265.webm",
+    "bytes": 42048,
+    "sha256_prefix": "1707cade8265"
+  },
+  {
+    "source": "javascript",
+    "index": 5,
+    "mime": "image/gif",
+    "line": 2851,
+    "file": "javascript-05-023a87515f37.gif",
+    "bytes": 34,
+    "sha256_prefix": "023a87515f37"
+  },
+  {
+    "source": "javascript",
+    "index": 6,
+    "mime": "image/png",
+    "line": 2891,
+    "file": "javascript-06-068aa31bad50.png",
+    "bytes": 34493,
+    "sha256_prefix": "068aa31bad50"
+  },
+  {
+    "source": "javascript",
+    "index": 7,
+    "mime": "image/webp",
+    "line": 3203,
+    "file": "javascript-07-da950f059ffa.webp",
+    "bytes": 123666,
+    "sha256_prefix": "da950f059ffa"
+  },
+  {
+    "source": "css",
+    "index": 1,
+    "mime": "image/png",
+    "line": 7120,
+    "file": "css-01-37d20ef7678a.png",
+    "bytes": 39227,
+    "sha256_prefix": "37d20ef7678a"
+  },
+  {
+    "source": "css",
+    "index": 2,
+    "mime": "font/woff2",
+    "line": 8018,
+    "file": "css-02-072ed25b84d1.woff2",
+    "bytes": 72380,
+    "sha256_prefix": "072ed25b84d1"
+  },
+  {
+    "source": "css",
+    "index": 3,
+    "mime": "font/woff2",
+    "line": 8019,
+    "file": "css-03-81ec18029700.woff2",
+    "bytes": 77776,
+    "sha256_prefix": "81ec18029700"
+  },
+  {
+    "source": "css",
+    "index": 4,
+    "mime": "font/woff2",
+    "line": 8020,
+    "file": "css-04-03b0675a21f5.woff2",
+    "bytes": 79064,
+    "sha256_prefix": "03b0675a21f5"
+  },
+  {
+    "source": "css",
+    "index": 5,
+    "mime": "font/woff2",
+    "line": 8021,
+    "file": "css-05-3bfd79fdc17b.woff2",
+    "bytes": 79160,
+    "sha256_prefix": "3bfd79fdc17b"
+  },
+  {
+    "source": "css",
+    "index": 6,
+    "mime": "font/woff2",
+    "line": 8022,
+    "file": "css-06-55e446e980a0.woff2",
+    "bytes": 77112,
+    "sha256_prefix": "55e446e980a0"
+  },
+  {
+    "source": "css",
+    "index": 7,
+    "mime": "image/webp",
+    "line": 8074,
+    "file": "css-07-357079274827.webp",
+    "bytes": 165818,
+    "sha256_prefix": "357079274827"
+  }
+]
